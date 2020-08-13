@@ -1,0 +1,7 @@
+F:\обучение С#\программирование в информационных системах\C sharp\C sharp\Less 4 OOP cats\bin\Debug\Less 4 OOP cats.exe.config
+F:\обучение С#\программирование в информационных системах\C sharp\C sharp\Less 4 OOP cats\bin\Debug\Less 4 OOP cats.exe
+F:\обучение С#\программирование в информационных системах\C sharp\C sharp\Less 4 OOP cats\bin\Debug\Less 4 OOP cats.pdb
+F:\обучение С#\программирование в информационных системах\C sharp\C sharp\Less 4 OOP cats\obj\Debug\Less 4 OOP cats.csprojAssemblyReference.cache
+F:\обучение С#\программирование в информационных системах\C sharp\C sharp\Less 4 OOP cats\obj\Debug\Less 4 OOP cats.csproj.CoreCompileInputs.cache
+F:\обучение С#\программирование в информационных системах\C sharp\C sharp\Less 4 OOP cats\obj\Debug\Less 4 OOP cats.exe
+F:\обучение С#\программирование в информационных системах\C sharp\C sharp\Less 4 OOP cats\obj\Debug\Less 4 OOP cats.pdb
