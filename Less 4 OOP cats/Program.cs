@@ -10,7 +10,7 @@ namespace Less_4_OOP_cats
     {
         static void Main(string[] args)
         {
-            HomeCat TestCat1 = new HomeCat();
+            HomeCat TestCat1 = new HomeCat("Новый кот1");
             Console.WriteLine("от класса млекопитающие наш котик получил возможность ... млекопитать...");
             Console.WriteLine((TestCat1.MilkFeed()));
             Console.WriteLine("от класса хищьники наш котик получил возможность есть мясо");
@@ -24,6 +24,15 @@ namespace Less_4_OOP_cats
             TestCat1.EverythingDrop();
             Console.WriteLine(TestCat1.ToString());
             Console.ReadKey();
+
+
+            StaticCat.i = 0;
+           
+
+        }
+        public static class StaticCat 
+        {
+         public   static int i;    
         }
     }
 }

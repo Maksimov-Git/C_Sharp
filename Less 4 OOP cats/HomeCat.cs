@@ -6,15 +6,30 @@ using System.Threading.Tasks;
 
 namespace Less_4_OOP_cats
 {
-    class HomeCat:SmallCats
+    class  HomeCat:SmallCats
     {
-        public void EverythingDrop()
+      private string Name;
+        public  void EverythingDrop()
         {
             Console.WriteLine("Наташ, ты спишь ? Мы там все уронили...");            
         }
-        public override string MilkFeed()
+       public override void metoD1()
+       {
+            
+       }
+
+      public override string MilkFeed()
+       {
+            return base.MilkFeed() + " конфеты";
+       }
+
+      public  HomeCat(string CATName)
         {
-            return base.MilkFeed() + "конфеты";
+            Name = CATName;
+        }
+        ~HomeCat()
+        {
+
         }
 
     }

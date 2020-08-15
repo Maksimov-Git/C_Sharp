@@ -6,14 +6,18 @@ using System.Threading.Tasks;
 
 namespace Less_4_OOP_cats
 {
-    class Spine : Object
-    {
-
-    }
+    
 
 
     abstract class vertebrates
     {
-    private Spine spine;
+        class Spine : Object
+        {
+
+        }
+        private Spine spine;
+    private int SpineCount = 32;
+
+        private const int TCount = 24;
     }
 }
