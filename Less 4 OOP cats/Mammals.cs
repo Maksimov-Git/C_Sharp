@@ -11,15 +11,16 @@ namespace Less_4_OOP_cats
     {
        
 
-        public virtual void metoD()
+        public virtual void Digestion()
         {
 
         }
-        public abstract void metoD1();
+        public abstract void Live_bearing();
 
-        public virtual String MilkFeed()
+        public  String MilkFeed()
         {
             return "молоко";
+
         }
     }
 }

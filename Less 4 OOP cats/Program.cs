@@ -23,8 +23,18 @@ namespace Less_4_OOP_cats
             Console.WriteLine("а сам наш кот может только ронять вещи.... ");
             TestCat1.EverythingDrop();
             Console.WriteLine(TestCat1.ToString());
-            Console.ReadKey();
 
+            Console.WriteLine(TestCat1.Feed("Молоко"));
+            Console.WriteLine(" ");
+            Console.WriteLine(TestCat1.Feed("Не молоко"));
+
+
+            TestCat1.Age = 35;
+            Console.WriteLine(TestCat1.Age);
+
+
+            Console.ReadKey();
+           
 
             StaticCat.i = 0;
            
